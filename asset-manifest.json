@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/product_catalog/static/css/main.72536025.css",
-    "main.js": "/product_catalog/static/js/main.2d48e725.js",
-    "static/media/Mont-Regular.otf": "/product_catalog/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
-    "static/media/Mont-SemiBold.otf": "/product_catalog/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
-    "static/media/Mont-Bold.otf": "/product_catalog/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
-    "index.html": "/product_catalog/index.html",
-    "main.72536025.css.map": "/product_catalog/static/css/main.72536025.css.map",
-    "main.2d48e725.js.map": "/product_catalog/static/js/main.2d48e725.js.map"
+    "main.css": "/static/css/main.cea7d7f8.css",
+    "main.js": "/static/js/main.9d1f1ad2.js",
+    "static/media/Mont-Regular.otf": "/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/icon-cart.svg": "/static/media/icon-cart.0089c9921342187cd543.svg",
+    "static/media/icon-heart.svg": "/static/media/icon-heart.c114cca9e59b6fe3f2ee.svg",
+    "static/media/icon-home.svg": "/static/media/icon-home.fa658b63233174ffdd96.svg",
+    "static/media/icon-heart-red.svg": "/static/media/icon-heart-red.8457b086ba95c315f35e.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.a2d31e07ce6b3f8af420.svg",
+    "static/media/icon-burger-menu.svg": "/static/media/icon-burger-menu.79493d978b6370e711c2.svg",
+    "static/media/icon-chevron-arrow-right--secondary-grey.svg": "/static/media/icon-chevron-arrow-right--secondary-grey.83991c7d33b8e1cfe733.svg",
+    "static/media/icon-arrow-up.svg": "/static/media/icon-arrow-up.58b2ee615d3cdaee40b0.svg",
+    "index.html": "/index.html",
+    "main.cea7d7f8.css.map": "/static/css/main.cea7d7f8.css.map",
+    "main.9d1f1ad2.js.map": "/static/js/main.9d1f1ad2.js.map"
   },
   "entrypoints": [
-    "static/css/main.72536025.css",
-    "static/js/main.2d48e725.js"
+    "static/css/main.cea7d7f8.css",
+    "static/js/main.9d1f1ad2.js"
   ]
 }
