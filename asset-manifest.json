@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/product_catalog/static/css/main.bcd139f6.css",
-    "main.js": "/product_catalog/static/js/main.255a62f3.js",
+    "main.css": "/product_catalog/static/css/main.521cb730.css",
+    "main.js": "/product_catalog/static/js/main.e3cf8285.js",
     "static/media/Mont-Regular.otf": "/product_catalog/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
     "static/media/Mont-SemiBold.otf": "/product_catalog/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
     "static/media/Mont-Bold.otf": "/product_catalog/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
@@ -11,19 +11,14 @@
     "static/media/icon-heart-red.svg": "/product_catalog/static/media/icon-heart-red.8457b086ba95c315f35e.svg",
     "static/media/icon-close.svg": "/product_catalog/static/media/icon-close.a2d31e07ce6b3f8af420.svg",
     "static/media/icon-burger-menu.svg": "/product_catalog/static/media/icon-burger-menu.79493d978b6370e711c2.svg",
-    "static/media/icon-plus.svg": "/product_catalog/static/media/icon-plus.a544912e75568921a626.svg",
     "static/media/icon-chevron-arrow-right--secondary-grey.svg": "/product_catalog/static/media/icon-chevron-arrow-right--secondary-grey.83991c7d33b8e1cfe733.svg",
-    "static/media/icon-arrow-left.svg": "/product_catalog/static/media/icon-arrow-left.2bc868200b480baccc95.svg",
     "static/media/icon-arrow-up.svg": "/product_catalog/static/media/icon-arrow-up.58b2ee615d3cdaee40b0.svg",
     "index.html": "/product_catalog/index.html",
-    "static/media/icon-minus-disabled.svg": "/product_catalog/static/media/icon-minus-disabled.4b7c4fa33c66c0b35185.svg",
-    "static/media/icon-minus.svg": "/product_catalog/static/media/icon-minus.60fd3f6514ad8fda3180.svg",
-    "static/media/index.tsx": "/product_catalog/static/media/index.24018cc3ec58d89d60b0.tsx",
-    "main.bcd139f6.css.map": "/product_catalog/static/css/main.bcd139f6.css.map",
-    "main.255a62f3.js.map": "/product_catalog/static/js/main.255a62f3.js.map"
+    "main.521cb730.css.map": "/product_catalog/static/css/main.521cb730.css.map",
+    "main.e3cf8285.js.map": "/product_catalog/static/js/main.e3cf8285.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcd139f6.css",
-    "static/js/main.255a62f3.js"
+    "static/css/main.521cb730.css",
+    "static/js/main.e3cf8285.js"
   ]
 }
